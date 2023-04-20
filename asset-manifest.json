@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4421823.css",
-    "main.js": "/static/js/main.985afc99.js",
-    "index.html": "/index.html",
-    "main.e4421823.css.map": "/static/css/main.e4421823.css.map",
-    "main.985afc99.js.map": "/static/js/main.985afc99.js.map"
+    "main.css": "/Food-App-React-Tailwind/static/css/main.e4421823.css",
+    "main.js": "/Food-App-React-Tailwind/static/js/main.985afc99.js",
+    "index.html": "/Food-App-React-Tailwind/index.html",
+    "main.e4421823.css.map": "/Food-App-React-Tailwind/static/css/main.e4421823.css.map",
+    "main.985afc99.js.map": "/Food-App-React-Tailwind/static/js/main.985afc99.js.map"
   },
   "entrypoints": [
     "static/css/main.e4421823.css",
